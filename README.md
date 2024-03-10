@@ -1,2 +1,2 @@
 # CommunitySubteam
-Convergent Social Impact - Community
+Authors: Ryan Chen, Abhiram Gadde, Aditya Prasad, Nathan Yee
